@@ -1,0 +1,72 @@
+2021-07-14 15:36:19,508 [main] creating student
+2021-07-14 15:36:19,526 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:36:19,526 [main] entering method: CreateStudent at 1626291379526
+2021-07-14 15:36:19,526 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:36:19,526 [main] Leaving method: CreateStudent at 1626291379526
+2021-07-14 15:36:19,526 [main] creating student
+2021-07-14 15:36:19,526 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:36:19,527 [main] entering method: CreateStudent at 1626291379526
+2021-07-14 15:36:19,527 [main] Leaving method: CreateStudent at 1626291379527
+2021-07-14 15:36:41,474 [main] creating student
+2021-07-14 15:36:41,492 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:36:41,492 [main] entering method: CreateStudent at 1626291401492
+2021-07-14 15:36:41,492 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:36:41,492 [main] Leaving method: CreateStudent at 1626291401492
+2021-07-14 15:36:41,492 [main] creating student
+2021-07-14 15:36:41,492 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:36:41,492 [main] entering method: CreateStudent at 1626291401492
+2021-07-14 15:36:41,492 [main] Leaving method: CreateStudent at 1626291401492
+2021-07-14 15:39:07,564 [main] creating student
+2021-07-14 15:39:07,580 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:39:07,580 [main] entering method: CreateStudent at 1626291547580
+2021-07-14 15:39:07,580 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:39:07,580 [main] Leaving method: CreateStudent at 1626291547580
+2021-07-14 15:39:07,580 [main] creating student
+2021-07-14 15:39:07,580 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:39:07,580 [main] entering method: CreateStudent at 1626291547580
+2021-07-14 15:39:07,580 [main] Leaving method: CreateStudent at 1626291547580
+2021-07-14 15:39:25,243 [main] creating student
+2021-07-14 15:39:25,274 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:39:25,274 [main] entering method: CreateStudent at 1626291565274
+2021-07-14 15:39:25,274 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:39:25,274 [main] Leaving method: CreateStudent at 1626291565274
+2021-07-14 15:39:25,274 [main] creating student
+2021-07-14 15:39:25,274 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:39:25,274 [main] entering method: CreateStudent at 1626291565274
+2021-07-14 15:39:25,274 [main] Leaving method: CreateStudent at 1626291565274
+2021-07-14 15:41:04,547 [main] creating student
+2021-07-14 15:41:04,563 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:41:04,563 [main] entering method: CreateStudent at 1626291664563
+2021-07-14 15:41:04,563 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:41:04,563 [main] Leaving method: CreateStudent at 1626291664563
+2021-07-14 15:41:04,563 [main] creating student
+2021-07-14 15:41:04,563 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:41:04,563 [main] entering method: CreateStudent at 1626291664563
+2021-07-14 15:41:04,563 [main] Leaving method: CreateStudent at 1626291664563
+2021-07-14 15:43:38,849 [main] creating student
+2021-07-14 15:43:38,865 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:43:38,865 [main] entering method: CreateStudent at 1626291818865
+2021-07-14 15:43:38,865 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:43:38,865 [main] Leaving method: CreateStudent at 1626291818865
+2021-07-14 15:43:38,865 [main] creating student
+2021-07-14 15:43:38,865 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:43:38,865 [main] entering method: CreateStudent at 1626291818865
+2021-07-14 15:43:38,865 [main] Leaving method: CreateStudent at 1626291818865
+2021-07-14 15:57:10,413 [main] creating student
+2021-07-14 15:57:10,420 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:57:10,420 [main] entering method: CreateStudent at 1626292630420
+2021-07-14 15:57:10,420 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:57:10,420 [main] Leaving method: CreateStudent at 1626292630420
+2021-07-14 15:57:10,420 [main] creating student
+2021-07-14 15:57:10,420 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:57:10,420 [main] entering method: CreateStudent at 1626292630420
+2021-07-14 15:57:10,420 [main] Leaving method: CreateStudent at 1626292630420
+2021-07-14 15:58:44,527 [main] creating student
+2021-07-14 15:58:44,543 [main] creating student with following details io.pragra.log.Student{age=30, name='null', course='java'}
+2021-07-14 15:58:44,543 [main] entering method: CreateStudent at 1626292724543
+2021-07-14 15:58:44,543 [main] io.pragra.log.Student name null is not valid
+2021-07-14 15:58:44,543 [main] Leaving method: CreateStudent at 1626292724543
+2021-07-14 15:58:44,543 [main] creating student
+2021-07-14 15:58:44,543 [main] creating student with following details io.pragra.log.Student{age=40, name='ajk', course='QA'}
+2021-07-14 15:58:44,543 [main] entering method: CreateStudent at 1626292724543
+2021-07-14 15:58:44,543 [main] Leaving method: CreateStudent at 1626292724543
